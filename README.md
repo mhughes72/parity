@@ -1,1 +1,3 @@
-# parity Matt Hughes
+# PARITY
+## Django HOUSE Code Challenge
+### Matt Hughes
