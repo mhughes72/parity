@@ -1,4 +1,4 @@
-from django.apps import AppConfig
+rom django.apps import AppConfig
 
 
 class ParityAppConfig(AppConfig):
