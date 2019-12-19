@@ -11,4 +11,6 @@ You can use the following credentials:
 U - parity
 P - djangohouse
 
+Feel free to add/delete/update whatever you like.
+
 Cheers!
